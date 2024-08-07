@@ -15,4 +15,4 @@
  **На телевизоре (Android):**
  1. Определить архитектуру вашего Android устройства. [Инструкция здесь.](https://www.comss.ru/page.php?id=11636)
  2. Скачать и установить версию SmartTube для своей архитектуры с [GitHub](https://github.com/yuliskov/SmartTube/releases).
- 3. 
+ 3. Скачать и установить PowerTunnel с [GitHub](https://github.com/krlvm/PowerTunnel-Android/releases).
