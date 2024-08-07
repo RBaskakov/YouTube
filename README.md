@@ -14,5 +14,5 @@
 
  **На телевизоре (Android):**
  1. Определить архитектуру вашего Android устройства. [Инструкция здесь.](https://www.comss.ru/page.php?id=11636)
- 2. Скачать и установить версию SmartTube для своей архитектуры с [GitHub](https://github.com/yuliskov/SmartTube/releases).
- 3. Скачать и установить PowerTunnel с [GitHub](https://github.com/krlvm/PowerTunnel-Android/releases).
+ 2. Скачать и установить PowerTunnel с [GitHub](https://github.com/krlvm/PowerTunnel-Android/releases). В настройках меняем режим соединения с VPN на proxy. Для удобства включаем галочку "Автозапуск".
+ 3. Скачать и установить версию SmartTube для своей архитектуры с [GitHub](https://github.com/yuliskov/SmartTube/releases). Идем в SmartTube "настройки -> основные -> Интернет-цензура" и указываем данные локальной прокси от PowerTunnel: 127.0.0.1, порт 8085, логин и пароль пустые, режим HTTP. Нажимем тест, должно выйти ОК.
