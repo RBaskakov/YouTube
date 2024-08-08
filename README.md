@@ -7,10 +7,9 @@
 
 **Что нужно сделать:**
 1. Скачайте последнюю версию [AdGuard](https://adguard.info/ru/welcome.html).
-2. Распакуйте архив и запустите файл «1_russia_blacklist.cmd».
-3. Для браузеров на основе Chrome (например, Yandex Browser или Google Chrome) введите в адресную строку «chrome://flags», найдите «Kyber» и отключите этот флаг.
+2. Откройте настройки программы и перейдите в раздел «Защита от трекинга». Там вы увидите опцию «Защита от DPI» — включите её, поставив галочку.
 
-Источник: [https://www.igromania.ru/article/32625/youtube-tormozit-3-sposoba-uskorit-rabotu-videohostinga/](https://www.igromania.ru/article/32625/youtube-tormozit-3-sposoba-uskorit-rabotu-videohostinga/)
+Источник: [https://www.ixbt.com/live/sw/5-rabochih-sposobov-kak-oboyti-zamedlenie-youtube-na-pk-bez-vpn.html](https://www.ixbt.com/live/sw/5-rabochih-sposobov-kak-oboyti-zamedlenie-youtube-na-pk-bez-vpn.html)
 
  **На телевизоре (Android):**
  1. Определить архитектуру вашего Android устройства. Инструкция [здесь](https://www.comss.ru/page.php?id=11636).
