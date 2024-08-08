@@ -6,7 +6,7 @@
 Программа GoodbyeDPI помогает обойти глубокий анализ пакетов, делая трафик «невидимым» для DPI.
 
 **Что нужно сделать:**
-1. Скачайте последнюю версию [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/releases/tag/0.2.3rc1)  с GitHub.
+1. Скачайте последнюю версию [AdGuard](https://adguard.info/ru/welcome.html).
 2. Распакуйте архив и запустите файл «1_russia_blacklist.cmd».
 3. Для браузеров на основе Chrome (например, Yandex Browser или Google Chrome) введите в адресную строку «chrome://flags», найдите «Kyber» и отключите этот флаг.
 
