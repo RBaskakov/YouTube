@@ -6,8 +6,6 @@
 1. Скачайте последнюю версию [AdGuard](https://adguard.info/ru/welcome.html). Версия триальная, лучше установить рабочую.
 2. Откройте настройки программы и перейдите в раздел «Защита от трекинга». Там вы увидите опцию «Защита от DPI» — включите её, поставив галочку.
 
-Источник: [https://www.ixbt.com/live/sw/5-rabochih-sposobov-kak-oboyti-zamedlenie-youtube-na-pk-bez-vpn.html](https://www.ixbt.com/live/sw/5-rabochih-sposobov-kak-oboyti-zamedlenie-youtube-na-pk-bez-vpn.html)
-
  **На телевизоре (Android):**
  1. Определить архитектуру вашего Android устройства. Инструкция [здесь](https://www.comss.ru/page.php?id=11636).
  2. Скачать и установить PowerTunnel с [GitHub](https://github.com/krlvm/PowerTunnel-Android/releases). В настройках меняем режим соединения с VPN на proxy. Для удобства включаем галочку "Автозапуск".
