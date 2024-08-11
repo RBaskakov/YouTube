@@ -3,7 +3,7 @@
 
 **На компьютере (Windows):**
 
-1. Скачайте последнюю версию [AdGuard](https://adguard.info/ru/welcome.html).
+1. Скачайте последнюю версию [AdGuard](https://adguard.info/ru/welcome.html). Версия триальная, лучше установить рабочую.
 2. Откройте настройки программы и перейдите в раздел «Защита от трекинга». Там вы увидите опцию «Защита от DPI» — включите её, поставив галочку.
 
 Источник: [https://www.ixbt.com/live/sw/5-rabochih-sposobov-kak-oboyti-zamedlenie-youtube-na-pk-bez-vpn.html](https://www.ixbt.com/live/sw/5-rabochih-sposobov-kak-oboyti-zamedlenie-youtube-na-pk-bez-vpn.html)
